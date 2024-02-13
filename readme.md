@@ -25,6 +25,8 @@ We hope that the Federation will recognize its potential to promote peace by pub
 
 Add your name [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform).
 
+*This letter was written without any organizational or institutional support. The authors came together around a shared dismay of what we're witnessing.*
+
 Signed,
 | Name     | Hometown |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
