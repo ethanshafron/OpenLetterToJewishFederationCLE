@@ -30,16 +30,98 @@ Add your name [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO9
 Signed,
 | Name     | Hometown |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Aaron                   | Shaker Heights                                                                                                                        |
-| Abby White              | Shaker Heights, OH                                                                                                                    |
-| Adam Ratner             | Shaker Heights                                                                                                                        |
-| Alana Turnbull          | Madison, WI                                                                                                                           |
-| Amaryllis               | Cleveland Heights                                                                                                                     |
-| Amy Hanauer             | Shaker Heights, OH                                                                                                                    |
-| Andrew                  | Orange, OH                                                                                                                            |
-| Andrew Karas            | Pepper Pike                                                                                                                           |
+| Ruthy A                 | Beachwood OH                                                                                                                          |
+| Kathryn Abarbanel       | Cleveland Heights, OH                                                                                                                 |
+| Jonas Albert            | Shaker Heights                                                                                                                        |
+| Benjamin                | Cleveland Heights                                                                                                                     |
 | Anne Barach             | University Heights, OH                                                                                                                |
+| Daniel Barach           | University Heights                                                                                                                    |
+| Amaryllis               | Cleveland Heights                                                                                                                     |
+| Danny Caine             | Lakewood, OH                                                                                                                          |
+| Max Cassell             | Shaker Heights, OH                                                                                                                    |
+| Hannah Cohen            | Pepper Pike                                                                                                                           |
+| Caroline Creed          | Shaker Heights, OH                                                                                                                    |
+| Rachel Davidson         | Shaker Heights                                                                                                                        |
+| Leah                    | South Euclid                                                                                                                          |
+| Hannah Elson            | Shaker Heights, OH                                                                                                                    |
+| Robbie Elson            | Shaker Heights, OH                                                                                                                    |
+| Brittany Evans          | South Euclid, OH                                                                                                                      |
+| Zoe Farkas              | Orange, OH                                                                                                                            |
 | Anne Flamm              | Shaker Heights, OH                                                                                                                    |
+| Hana Flamm              | Shaker Heights, OH                                                                                                                    |
+| Solomon Freilich        | Shaker Heights, OH                                                                                                                    |
+| Connie Friedman         | Shaker Heights, OH                                                                                                                    |
+| Kate Friedman           | Shaker Heights, OH                                                                                                                    |
+| Miriam Geronimus        | Cleveland, OH                                                                                                                         |
+| Amy Hanauer             | Shaker Heights, OH                                                                                                                    |
+| Katrina Hanauer Cassell | Shaker Heights                                                                                                                        |
+| Dana                    | Beachwood, OH                                                                                                                         |
+| Gabriel Hersch          | Cleveland Heights, OH                                                                                                                 |
+| Max Hersch              | Cleveland Heights, OH                                                                                                                 |
+| Max Herzog              | Detroit Shoreway                                                                                                                      |
+| Brian Huser             | Cleveland Heights                                                                                                                     |
+| Sara Huser              | Shaker Heights, OH                                                                                                                    |
+| Jacob Hutt              | Shaker Heights, OH                                                                                                                    |
+| Penny Kadish            | South Euclid, OH                                                                                                                      |
+| Emma Kagan              | Shaker Heights, OH                                                                                                                    |
+| Andrew Karas            | Pepper Pike                                                                                                                           |
+| Giliann Karon           | Pepper Pike, OH                                                                                                                       |
+| Tamar  Kodish           | Shaker Heights, OH                                                                                                                    |
+| Hannah Kornblut         | Shaker Heights, OH                                                                                                                    |
+| Max Kornblut            | Shaker Heights, OH                                                                                                                    |
+| Andrew                  | Orange, OH                                                                                                                            |
+| Hillary Lacks           | Shaker Heights, OH                                                                                                                    |
+| Ricki (Rifka) Lagozzino | University Heights Ohio                                                                                                               |
+| Louise Lakhn            | Dayton, OH                                                                                                                            |
+| Ravi Lesser             | Cleveland Heights, OH                                                                                                                 |
+| Harry Marek             | Shaker Heights OH                                                                                                                     |
+| Sarah Marek             | Shaker Heights, OH                                                                                                                    |
+| Claire Ockner           | Shaker Heights, OH                                                                                                                    |
+| Jason Oscar             | Shaker Heights, OH                                                                                                                    |
+| Julie                   | Cleveland                                                                                                                             |
+| Josh Perelman-Hall      | Cleveland Heights                                                                                                                     |
+| Koby Picker             | Cleveland Heights, OH)                                                                                                                |
+| Ari Rabinowitz          | Queens, NY                                                                                                                            |
+| Adam Ratner             | Shaker Heights                                                                                                                        |
+| Ilana Horowitz Ratner   | Shaker Heights                                                                                                                        |
+| Ronald Ratner           | Shaker Heights                                                                                                                        |
+| Zach Reizes             | Shaker Heights                                                                                                                        |
+| Isabel Robertson        | Shaker Heights, OH                                                                                                                    |
+| Elana Ross              | Shaker Heights, OH                                                                                                                    |
+| Jonah Ross              | Cleveland, OH)                                                                                                                        |
+| Lily Roth               | Shaker Heights, OH                                                                                                                    |
+| Aaron                   | Shaker Heights                                                                                                                        |
+| Noah                    | Shaker Heights, OH                                                                                                                    |
+| Sarah                   | Pepper Pike, OH                                                                                                                       |
+| Ilana Sadholz           | Shaker Heights                                                                                                                        |
+| Micah                   | Shaker Heights                                                                                                                        |
+| Peter Saudek            | Detroit Shoreway                                                                                                                      |
+| Robin Beth Schaer       | Cleveland, OH                                                                                                                         |
+| Hadas Scher             | Shaker Heights                                                                                                                        |
+| Ivy Schoch              | Shaker Heights, OH                                                                                                                    |
+| Mara Layne  Schoch      | Cleveland Heights                                                                                                                     |
+| Emma                    | Cleveland Heights                                                                                                                     |
+| Gabriel Segar           | Shaker Heights                                                                                                                        |
+| Ellie Shafron           | Shaker Heights, OH                                                                                                                    |
+| Ethan Shafron           | Shaker Heights, OH                                                                                                                    |
+| Steven Shafron          | Shaker Heights, OH                                                                                                                    |
+| Zach Shafron            | Solon, OH                                                                                                                             |
+| Jeremy Shapero          | Shaker hts                                                                                                                            |
+| Kaleigh Shupp           | Beachwood, OH                                                                                                                         |
+| David Shutkin           | Shaker Heights, OH)                                                                                                                   |
+| Tal Shutkin             | Shaker Heights, OH                                                                                                                    |
+| Brooke Siegler          | Solon, OH                                                                                                                             |
+| Laurel Simkoff          | Cleveland Heights, OH                                                                                                                 |
+| Malka Steinberg         | Shaker Heights, OH                                                                                                                    |
+| Lexi Stovsky            | Beachwood, OH                                                                                                                         |
+| Sarah Tibbitts          | Shaker Heights, OH                                                                                                                    |
+| Alana Turnbull          | Madison, WI                                                                                                                           |
+| Edie Ungar-Shafron      | Shaker Heights                                                                                                                        |
+| Jessie  Wayne           | Chagrin Falls                                                                                                                         |
+| Mira Whitaker-Kanner    | Cleveland Heights                                                                                                                     |
+| Abby White              | Shaker Heights, OH                                                                                                                    |
+| Lu Zucker               | Cleveland Heights, OH)                                                                                                                |
+| Rebecca                 | Shaker Heights, OH                                                                                                                    |
 | anonymous               | Beachwood                                                                                                                             |
 | anonymous               | Cle hts                                                                                                                               |
 | anonymous               | Cleveland                                                                                                                             |
@@ -55,85 +137,3 @@ Signed,
 | anonymous               | Solon, OH                                                                                                                             |
 | anonymous               | Solon, OH                                                                                                                             |
 | anonymous               | University Heights                                                                                                                    |
-| Ari Rabinowitz          | Queens, NY                                                                                                                            |
-| Benjamin                | Cleveland Heights                                                                                                                     |
-| Brian Huser             | Cleveland Heights                                                                                                                     |
-| Brittany Evans          | South Euclid, OH                                                                                                                      |
-| Brooke Siegler          | Solon, OH                                                                                                                             |
-| Caroline Creed          | Shaker Heights, OH                                                                                                                    |
-| Claire Ockner           | Shaker Heights, OH)                                                                                                                   |
-| Connie Friedman         | Shaker Heights, OH                                                                                                                    |
-| Dana                    | Beachwood, OH                                                                                                                         |
-| Daniel Barach           | University Heights                                                                                                                    |
-| Danny Caine             | Lakewood, OH                                                                                                                          |
-| David Shutkin           | Shaker Heights, OH)                                                                                                                   |
-| Edie Ungar-Shafron      | Shaker Heights                                                                                                                        |
-| Elana Ross              | Shaker Heights, OH)                                                                                                                   |
-| Ellie Shafron           | Shaker Heights, OH                                                                                                                    |
-| Emma                    | Cleveland Heights                                                                                                                     |
-| Emma Kagan              | Shaker Heights, OH                                                                                                                    |
-| Ethan Shafron           | Shaker Heights, OH                                                                                                                    |
-| Gabriel Hersch          | Cleveland Heights, OH                                                                                                                 |
-| Gabriel Segar           | Shaker Heights, OH                                                                                                                    |
-| Giliann Karon           | Pepper Pike, OH                                                                                                                       |
-| Hadas Scher             | Shaker Heights                                                                                                                        |
-| Hana Flamm              | Shaker Heights, OH                                                                                                                    |
-| Hannah Cohen            | Pepper Pike                                                                                                                           |
-| Hannah Elson            | Shaker Heights, OH                                                                                                                    |
-| Hannah Kornblut         | Shaker Heights, OH)                                                                                                                   |
-| Harry Marek             | Shaker Heights OH                                                                                                                     |
-| Hillary Lacks           | Shaker Heights, OH                                                                                                                    |
-| Ilana Horowitz Ratner   | Shaker Heights                                                                                                                        |
-| Ilana Sadholz           | Shaker Heights                                                                                                                        |
-| Isabel Robertson        | Shaker Heights, OH                                                                                                                    |
-| Ivy Schoch              | Shaker Heights, OH                                                                                                                    |
-| Jacob Hutt              | Shaker Heights, OH                                                                                                                    |
-| Jason Oscar             | Shaker Heights, OH                                                                                                                    |
-| Jeremy Shapero          | Shaker hts                                                                                                                            |
-| Jessie  Wayne           | Chagrin Falls                                                                                                                         |
-| Jonah Ross              | Cleveland, OH)                                                                                                                        |
-| Jonas Albert            | Shaker Heights                                                                                                                        |
-| Josh Perelman-Hall      | Cleveland Heights                                                                                                                     |
-| Julie                   | Cleveland                                                                                                                             |
-| Kaleigh Shupp           | Beachwood, OH)                                                                                                                        |
-| Kate Friedman           | Shaker Heights, OH                                                                                                                    |
-| Kathryn Abarbanel       | Cleveland Heights, OH)                                                                                                                |
-| Katrina Hanauer Cassell | Shaker Heights                                                                                                                        |
-| Koby Picker             | Cleveland Heights, OH)                                                                                                                |
-| Laurel Simkoff          | Cleveland Heights, OH                                                                                                                 |
-| Leah                    | South Euclid                                                                                                                          |
-| Lexi Stovsky            | Beachwood, OH                                                                                                                         |
-| Lily Roth               | Shaker Heights, OH                                                                                                                    |
-| Louise Lakhn            | Dayton, OH (not from Cleveland)                                                                                                       |
-| Lu Zucker               | Cleveland Heights, OH)                                                                                                                |
-| Malka Steinberg         | Shaker Heights, OH                                                                                                                    |
-| Mara Layne  Schoch      | Cleveland Heights                                                                                                                     |
-| Max Cassell             | Shaker Heights, OH                                                                                                                    |
-| Max Hersch              | Cleveland Heights, OH                                                                                                                 |
-| Max Herzog              | Detroit Shoreway                                                                                                                      |
-| Max Kornblut            | Shaker Heights, OH                                                                                                                    |
-| Micah                   | Shaker Heights                                                                                                                        |
-| Mira Whitaker-Kanner    | Cleveland Heights                                                                                                                     |
-| Miriam Geronimus        | Cleveland, OH                                                                                                                         |
-| Noah                    | Shaker Heights, OH                                                                                                                    |
-| Penny Kadish            | South Euclid, OH                                                                                                                      |
-| Peter Saudek            | Detroit Shoreway                                                                                                                      |
-| Rachel Davidson         | Shaker Heights                                                                                                                        |
-| Ravi Lesser             | Cleveland Heights, OH                                                                                                                 |
-| Rebecca .               | Shaker Heights, OH                                                                                                                    |
-| Ricki (Rifka) Lagozzino | University Heights Ohio                                                                                                               |
-| Robbie Elson            | Shaker Heights, OH                                                                                                                    |
-| Robin Beth Schaer       | Cleveland, OH                                                                                                                         |
-| Ronald Ratner           | Shaker Heights                                                                                                                        |
-| Ruthy A                 | Beachwood OH                                                                                                                          |
-| Sara Huser              | Shaker Heights, OH                                                                                                                    |
-| Sarah                   | Pepper Pike, OH                                                                                                                       |
-| Sarah Marek             | Shaker Heights, OH                                                                                                                    |
-| Sarah Tibbitts          | Shaker Heights, OH                                                                                                                    |
-| Solomon Freilich        | Shaker Heights, OH                                                                                                                    |
-| Steven Shafron          | Shaker Heights, OH                                                                                                                    |
-| Tal Shutkin             | Shaker Heights, OH                                                                                                                    |
-| Tamar  Kodish           | Shaker Heights, OH                                                                                                                    |
-| Zach Reizes             | Shaker Heights                                                                                                                        |
-| Zach Shafron            | Solon, OH                                                                                                                             |
-| Zoe Farkas              | Orange, OH                                                                                                                            |
