@@ -32,16 +32,21 @@ Signed,
 |-------------------------|----------------------------------|
 | Ruthy A                 | Beachwood OH                     |
 | Kathryn Abarbanel       | Cleveland Heights, OH            |
+| Amalia Ackerman         | Shaker Heights, OH               |
 | Jonas Albert            | Shaker Heights                   |
 | Benjamin                | Cleveland Heights                |
+| Wendy B                 | Shaker Heights                   |
 | Anne Barach             | University Heights, OH           |
 | Daniel Barach           | University Heights               |
 | Amaryllis               | Cleveland Heights                |
+| Max Bleich              | Beachwood, OH                    |
 | Danny Caine             | Lakewood, OH                     |
 | Max Cassell             | Shaker Heights, OH               |
+| Allison Cohen           | Shaker Heights, OH               |
 | Hannah Cohen            | Pepper Pike                      |
 | Caroline Creed          | Shaker Heights, OH               |
 | Rachel Davidson         | Shaker Heights                   |
+| Cayla                   | Cleveland Heights, Ohio          |
 | Leah                    | South Euclid                     |
 | Hannah Elson            | Shaker Heights, OH               |
 | Robbie Elson            | Shaker Heights, OH               |
@@ -66,8 +71,9 @@ Signed,
 | Emma Kagan              | Shaker Heights, OH               |
 | Andrew Karas            | Pepper Pike                      |
 | Giliann Karon           | Pepper Pike, OH                  |
+| Sam Klein               | Shaker Heights                   |
 | Tamar  Kodish           | Shaker Heights, OH               |
-| Hannah Kornblut         | Shaker Heights, OH)              |
+| Hannah Kornblut         | Shaker Heights, OH               |
 | Max Kornblut            | Shaker Heights, OH               |
 | Andrew                  | Orange, OH                       |
 | Hillary Lacks           | Shaker Heights, OH               |
@@ -90,6 +96,7 @@ Signed,
 | Elana Ross              | Shaker Heights, OH               |
 | Jonah Ross              | Cleveland, OH)                   |
 | Lily Roth               | Shaker Heights, OH               |
+| Harley Rubin            | Cleveland Heights, OH            |
 | Aaron                   | Shaker Heights                   |
 | Noah                    | Shaker Heights, OH               |
 | Sarah                   | Pepper Pike, OH                  |
@@ -98,6 +105,7 @@ Signed,
 | Peter Saudek            | Detroit Shoreway                 |
 | Robin Beth Schaer       | Cleveland, OH                    |
 | Hadas Scher             | Shaker Heights                   |
+| Susan Schnur            | Cleveland                        |
 | Ivy Schoch              | Shaker Heights, OH               |
 | Mara Layne  Schoch      | Cleveland Heights                |
 | Emma                    | Cleveland Heights                |
@@ -113,6 +121,7 @@ Signed,
 | Brooke Siegler          | Solon, OH                        |
 | Laurel Simkoff          | Cleveland Heights, OH            |
 | Malka Steinberg         | Shaker Heights, OH               |
+| Karen Stetner           | Pepper Pike, OH                  |
 | Lexi Stovsky            | Beachwood, OH                    |
 | Sarah Tibbitts          | Shaker Heights, OH               |
 | Alana Turnbull          | Madison, WI                      |
@@ -122,15 +131,6 @@ Signed,
 | Abby White              | Shaker Heights, OH               |
 | Lu Zucker               | Cleveland Heights, OH            |
 | Rebecca                 | Shaker Heights, OH               |
-| Sam Klein               | Shaker Heights                   |
-| Allison Cohen           | Shaker Heights, OH               |
-| Susan Schnur            | Cleveland                        |
-| Wendy B                 | Shaker Heights                   |
-| Harley Rubin            | Cleveland Heights, OH            |
-| Cayla                   | Cleveland Heights, Ohio          |
-| Karen Stetner           | Pepper Pike, OH                  |
-| Amalia Ackerman         | Shaker Heights, OH               |
-| Max Bleich              | Beachwood, OH                    |
 | anonymous               | Beachwood                        |
 | anonymous               | Cle hts                          |
 | anonymous               | Cleveland                        |
