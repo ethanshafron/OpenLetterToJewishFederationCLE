@@ -25,6 +25,8 @@ We hope that the Federation will recognize its potential to promote peace by pub
 
 Add your name to the 116 names below [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform). Please only sign if you identify as a member of the Cleveland Jewish Community.
 
+Principally written by Ethan Shafron, Tal Shutkin, Abby White, Elana Ross, Max Hersch, and Robbie Elson, with input and feedback from many others.
+
 *This letter was written without any organizational or institutional support. The authors came together organically around our collective grief and dismay with our community's response to the war.*
 
 Signed,
