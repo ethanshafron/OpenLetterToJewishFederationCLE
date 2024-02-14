@@ -74,7 +74,6 @@ Signed,
 | Emma Kagan              | Shaker Heights, OH                                                                                                                    |
 | Ethan Shafron           | Shaker Heights, OH                                                                                                                    |
 | Gabriel Hersch          | Cleveland Heights, OH                                                                                                                 |
-| Gabriel Segar           | Shaker Heights                                                                                                                        |
 | Gabriel Segar           | Shaker Heights, OH                                                                                                                    |
 | Giliann Karon           | Pepper Pike, OH                                                                                                                       |
 | Hadas Scher             | Shaker Heights                                                                                                                        |
