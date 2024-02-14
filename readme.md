@@ -23,7 +23,7 @@ In that spirit, we call on our Israeli and Palestinian cousins to join us in pav
 
 We hope that the Federation will recognize its potential to promote peace by publicly supporting these actions. As Jews, we can and will debate our politics. But we must continue to uphold the sanctity of life — no exceptions. To those of you who share our concerns, we urge you to join the thousands of Jews across the country telling our leaders and families in one resounding voice: “Not in our name.”  
 
-Add your name to the 107 names below [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform).
+Add your name to the 108 names below [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform).
 
 *This letter was written without any organizational or institutional support. The authors came together around a shared dismay of what we're witnessing.*
 
@@ -66,6 +66,7 @@ Signed,
 | Emma Kagan              | Shaker Heights, OH                                                                                                                    |
 | Andrew Karas            | Pepper Pike                                                                                                                           |
 | Giliann Karon           | Pepper Pike, OH                                                                                                                       |
+| Sam Klein               | Shaker Heights, OH                                                                                                                    |
 | Tamar  Kodish           | Shaker Heights, OH                                                                                                                    |
 | Hannah Kornblut         | Shaker Heights, OH                                                                                                                    |
 | Max Kornblut            | Shaker Heights, OH                                                                                                                    |
