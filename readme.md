@@ -23,7 +23,7 @@ In that spirit, we call on our Israeli and Palestinian cousins to join us in pav
 
 We hope that the Federation will recognize its potential to promote peace by publicly supporting these actions. As Jews, we can and will debate our politics. But we must continue to uphold the sanctity of life — no exceptions. To those of you who share our concerns, we urge you to join the thousands of Jews across the country telling our leaders and families in one resounding voice: “Not in our name.”  
 
-Add your name to the 116 names below [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform). Please only sign if you identify as a member of the Cleveland Jewish Community.
+Add your name to the 121 below [here](https://docs.google.com/forms/d/e/1FAIpQLSc6N84YPxTcUhnXVO90urALeIatt25OgEnM0Cclw6Xa64W8YQ/viewform). Please only sign if you identify as a member of the Cleveland Jewish Community.
 
 Principally written by Ethan Shafron, Tal Shutkin, Abby White, Elana Ross, Max Hersch, and Robbie Elson, with input and feedback from many others.
 
