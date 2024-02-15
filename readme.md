@@ -41,6 +41,7 @@ Signed,
 | Anne Barach             | University Heights, OH   |
 | Daniel Barach           | University Heights       |
 | Amaryllis               | Cleveland Heights        |
+| Ben Becker              | Shaker Heights, OH       |
 | Max Bleich              | Beachwood, OH            |
 | Danny Caine             | Lakewood, OH             |
 | Max Cassell             | Shaker Heights, OH       |
@@ -82,8 +83,10 @@ Signed,
 | Ricki (Rifka) Lagozzino | University Heights Ohio  |
 | Louise Lakhn            | Dayton, OH               |
 | Ravi Lesser             | Cleveland Heights, OH    |
+| Alex Mangel             | orange                   |
 | Harry Marek             | Shaker Heights OH        |
 | Sarah Marek             | Shaker Heights, OH       |
+| Daria Novikov           | Beachwood, OH            |
 | Claire Ockner           | Shaker Heights, OH       |
 | Jason Oscar             | Shaker Heights, OH       |
 | Julie                   | Cleveland                |
@@ -128,13 +131,10 @@ Signed,
 | Sarah Tibbitts          | Shaker Heights, OH       |
 | Alana Turnbull          | Madison, WI              |
 | Edie Ungar-Shafron      | Shaker Heights           |
+| Matt Waxman             | South Euclid/Solon       |
 | Jessie  Wayne           | Chagrin Falls            |
 | Mira Whitaker-Kanner    | Cleveland Heights        |
 | Abby White              | Shaker Heights, OH       |
-| Alex Mangel             | orange                   |
-| Ben Becker              | Shaker Heights, OH       |
-| Daria Novikov           | Beachwood, OH            |
-| Matt Waxman             | South Euclid/Solon       |
 | Lu Zucker               | Cleveland Heights, OH    |
 | Rebecca                 | Shaker Heights, OH       |
 | anonymous               | Shaker Heights, OH       |
