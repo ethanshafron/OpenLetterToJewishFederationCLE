@@ -45,7 +45,6 @@ Signed,
 | Max Bleich              | Beachwood, OH            |
 | Danny Caine             | Lakewood, OH             |
 | Max Cassell             | Shaker Heights, OH       |
-| Allison Cohen           | Shaker Heights, OH       |
 | Hannah Cohen            | Pepper Pike              |
 | Caroline Creed          | Shaker Heights, OH       |
 | Rachel Davidson         | Shaker Heights           |
@@ -151,5 +150,6 @@ Signed,
 | anonymous               | Beachwood                |
 | anonymous               | University Heights       |
 | anonymous               | Cle hts                  |
+| anonymous               | Shaker Heights, OH       |
 | anonymous               | Cleveland                |
 | anonymous               | Cleveland Heights, Ohio  |
